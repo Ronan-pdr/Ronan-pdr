@@ -5,13 +5,15 @@ I'm Ronan, currently a 18-years-old student in computer engineering at EPITA in 
 
 I discovered programming thanks to EPITA and I won't stop anytime soon 👀.
 
-<a href="https://github.com/Ronan-pdr/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ronan-pdr&show_icons=true&include_all_commits=true&theme=onedark" alt="Ronan-pdr's github stats" />
-</a>
+<p>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=Ronan-pdr&show_icons=true&include_all_commits=true&theme=onedark" alt="Ronan-pdr's github stats" />
 
-<a href="https://github.com/Ronan-pdr/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ronan-pdr&layout=compact&theme=onedark" />
-</a>
+ <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ronan-pdr&layout=compact&theme=onedark" />
+
+ <img align="left" src="https://github-readme-stats-kappa-vert.vercel.app/api/wakatime?username=Naron&theme=onedark" alt="Wakatime" width="47%" >
+</p>
+
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 Currently learning several languages: 
 
