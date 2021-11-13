@@ -8,8 +8,6 @@ I discovered programming thanks to EPITA and I won't stop anytime soon 👀.
 <p>
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=Ronan-pdr&show_icons=true&include_all_commits=true&theme=onedark" alt="Ronan-pdr's github stats" width="47%"/>
 
- <img align="right" src="https://github-readme-stats-kappa-vert.vercel.app/api/wakatime?username=Naron&theme=onedark" alt="Wakatime" width="47%" >
-
 </p>
 
 <br><br><br><br><br><br><br>
