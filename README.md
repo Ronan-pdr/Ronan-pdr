@@ -10,8 +10,6 @@ I discovered programming thanks to EPITA and I won't stop anytime soon 👀.
 
 </p>
 
-<br><br><br><br><br><br><br>
-
 Currently learning several languages: 
 
 <p>
