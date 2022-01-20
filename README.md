@@ -1,7 +1,7 @@
 ### Hello there <img src="https://github.com/Ronan-pdr/Ronan-pdr/blob/main/riolu.png" alt="riolu" width="35"/>
  ~~ ~~
  
-I'm Ronan, currently a 18-years-old student in computer engineering at EPITA in Paris.
+I'm Ronan, currently a 19-years-old student in computer engineering at EPITA in Paris.
 
 I discovered programming thanks to EPITA and I won't stop anytime soon 👀.
 -
